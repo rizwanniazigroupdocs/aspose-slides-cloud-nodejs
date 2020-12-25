@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/api-v3.0-lightgrey) ![npm](https://img.shields.io/npm/v/asposeslidescloud) ![npm bundle size](https://img.shields.io/bundlephobia/min/asposeslidescloud) ![node-current](https://img.shields.io/node/v/asposeslidescloud) ![npm type definitions](https://img.shields.io/npm/types/asposeslidescloud) [![GitHub license](https://img.shields.io/github/license/aspose-slides-cloud/aspose-slides-cloud-node)](https://github.com/aspose-slides-cloud/aspose-slides-cloud-node/blob/master/LICENSE) 
-# Aspose.Slides Cloud SDK for NodeJS [![npm](https://badge.fury.io/js/asposeslidescloud.svg)](https://www.npmjs.com/package/asposeslidescloud)
+![](https://img.shields.io/badge/api-v3.0-lightgrey) ![npm](https://img.shields.io/npm/v/asposeslidescloud) ![npm bundle size](https://img.shields.io/bundlephobia/min/asposeslidescloud) ![node-current](https://img.shields.io/node/v/asposeslidescloud) ![npm type definitions](https://img.shields.io/npm/types/asposeslidescloud) [![GitHub license](https://img.shields.io/github/license/aspose-slides-cloud/aspose-slides-cloud-nodejs)](https://github.com/aspose-slides-cloud/aspose-slides-cloud-nodejs/blob/master/LICENSE) 
+# Aspose.Slides Cloud SDK for NodeJS
 This repository contains Aspose.Slides Cloud SDK for NodeJS source code. This SDK allows you to work with Aspose.Slides Cloud REST APIs in your NodeJS applications.
 
 ## Key Features
